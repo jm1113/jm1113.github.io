@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QCU_Connect_Sign_In</title>
+    <link rel="stylesheet" href="style.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Share+Tech&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- NAVIGATION BAR -->
+  </head>
+
+
+  <nav class="navbar">
+    <div class="navbar__container">
+      <a href="index.html" id="navbar__logo">
+        <img src="assets/logo.jpg" alt="Home" class="navbar__logo-image" />
+        QCU CONNECT
+      </a>
+      <div class="navbar__toggle" id="mobile-menu">
+        <span class="bar"></span> <span class="bar"></span>
+        <span class="bar"></span>
+      </div>
+      <ul class="navbar__menu">
+        <li class="navbar__item">
+          <a href="sign_up.html" class="navbar__links">BACK</a>
+        </li>
+        <!-- <li class="navbar__item">
+          <a href="diss_form.html" class="navbar__links">DISCUSSION FORM</a>
+        </li> -->
+        <!-- <li class="navbar__item">
+          <a href="sign_out.html" class="navbar__links">SETTINGS</a>
+        </li> -->
+        <!-- <li class="navbar__item">
+          <a href="/" class="navbar__links">MENTAL HEALTH</a>
+        </li> -->
+        <!-- <li class="navbar__btn"><a href="sign_in.html" class="button">SIGN UP</a></li> -->
+      </ul>
+    </div>
+  </nav>
+    
+<!-- Sign-In Form -->
+ 
+<div class="signin-container">
+
+    <!-- Error Box -->
+    <div id="errorBox" class="error-box" style="display: none;">
+      Invalid username or password. Please try again.
+    </div>
+  
+    <!-- Sign-In Form -->
+    <form id="signinForm" class="form">
+      <h2>Sign In</h2>
+  
+      <label for="signinUsername">Username:</label>
+      <input
+        type="text"
+        id="signinUsername"
+        placeholder="Enter your username"
+        required
+      />
+  
+      <label for="signinPassword">Password:</label>
+      <input
+        type="password"
+        id="signinPassword"
+        placeholder="Enter your password"
+        required
+      />
+  
+      <!-- <button type="submit" id="signinButton">Sign In</button> -->
+      <button type="button" id="signinButton">
+        <a href="home.html" style="color: white; text-decoration: none;">Sign In</a>
+      </button>
+      
+    </form>
+  </div>
+  
+  
+
+
+    <script src="app.js";></script>
+    <script src="app2.js";></script>
+    
+  </body>
+</html>
