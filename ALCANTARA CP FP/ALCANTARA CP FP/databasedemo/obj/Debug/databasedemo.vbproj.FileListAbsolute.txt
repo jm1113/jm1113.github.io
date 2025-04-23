@@ -1,0 +1,34 @@
+C:\Users\lab608.DLSAU2\Documents\ALCANTARA BSCS\CP2 Carlos Alcantara\databasedemo\databasedemo\bin\Debug\databasedemo.exe.config
+C:\Users\lab608.DLSAU2\Documents\ALCANTARA BSCS\CP2 Carlos Alcantara\databasedemo\databasedemo\bin\Debug\databasedemo.exe
+C:\Users\lab608.DLSAU2\Documents\ALCANTARA BSCS\CP2 Carlos Alcantara\databasedemo\databasedemo\bin\Debug\databasedemo.pdb
+C:\Users\lab608.DLSAU2\Documents\ALCANTARA BSCS\CP2 Carlos Alcantara\databasedemo\databasedemo\bin\Debug\databasedemo.xml
+C:\Users\lab608.DLSAU2\Documents\ALCANTARA BSCS\CP2 Carlos Alcantara\databasedemo\databasedemo\obj\Debug\databasedemo.vbproj.AssemblyReference.cache
+C:\Users\lab608.DLSAU2\Documents\ALCANTARA BSCS\CP2 Carlos Alcantara\databasedemo\databasedemo\obj\Debug\databasedemo.Resources.resources
+C:\Users\lab608.DLSAU2\Documents\ALCANTARA BSCS\CP2 Carlos Alcantara\databasedemo\databasedemo\obj\Debug\databasedemo.vbproj.GenerateResource.cache
+C:\Users\lab608.DLSAU2\Documents\ALCANTARA BSCS\CP2 Carlos Alcantara\databasedemo\databasedemo\obj\Debug\databasedemo.vbproj.CoreCompileInputs.cache
+C:\Users\lab608.DLSAU2\Documents\ALCANTARA BSCS\CP2 Carlos Alcantara\databasedemo\databasedemo\obj\Debug\databasedemo.exe
+C:\Users\lab608.DLSAU2\Documents\ALCANTARA BSCS\CP2 Carlos Alcantara\databasedemo\databasedemo\obj\Debug\databasedemo.xml
+C:\Users\lab608.DLSAU2\Documents\ALCANTARA BSCS\CP2 Carlos Alcantara\databasedemo\databasedemo\obj\Debug\databasedemo.pdb
+C:\Users\lab608.DLSAU2\Documents\ALCANTARA BSCS\CP2 Carlos Alcantara\databasedemo\databasedemo\obj\Debug\Interop.ADODB.dll
+C:\Users\lab608.DLSAU2\Documents\ALCANTARA BSCS\CP2 Carlos Alcantara\databasedemo\databasedemo\obj\Debug\databasedemo.vbproj.ResolveComReference.cache
+C:\Users\lab608.DLSAU2\Documents\ALCANTARA BSCS\CP2 Carlos Alcantara\databasedemo\databasedemo\obj\Debug\databasedemo.Form1.resources
+C:\Users\asdf\Desktop\databasedemo\databasedemo\bin\Debug\databasedemo.exe.config
+C:\Users\asdf\Desktop\databasedemo\databasedemo\bin\Debug\databasedemo.exe
+C:\Users\asdf\Desktop\databasedemo\databasedemo\bin\Debug\databasedemo.pdb
+C:\Users\asdf\Desktop\databasedemo\databasedemo\bin\Debug\databasedemo.xml
+C:\Users\asdf\Desktop\databasedemo\databasedemo\obj\Debug\databasedemo.vbproj.AssemblyReference.cache
+C:\Users\asdf\Desktop\databasedemo\databasedemo\obj\Debug\Interop.ADODB.dll
+C:\Users\asdf\Desktop\databasedemo\databasedemo\obj\Debug\databasedemo.vbproj.ResolveComReference.cache
+C:\Users\asdf\Desktop\databasedemo\databasedemo\obj\Debug\databasedemo.Form1.resources
+C:\Users\asdf\Desktop\databasedemo\databasedemo\obj\Debug\databasedemo.Resources.resources
+C:\Users\asdf\Desktop\databasedemo\databasedemo\obj\Debug\databasedemo.vbproj.GenerateResource.cache
+C:\Users\asdf\Desktop\databasedemo\databasedemo\obj\Debug\databasedemo.vbproj.CoreCompileInputs.cache
+C:\Users\asdf\Desktop\databasedemo\databasedemo\obj\Debug\databasedemo.exe
+C:\Users\asdf\Desktop\databasedemo\databasedemo\obj\Debug\databasedemo.xml
+C:\Users\asdf\Desktop\databasedemo\databasedemo\obj\Debug\databasedemo.pdb
+E:\ALCANTARA CP FP\ALCANTARA CP FP\databasedemo\obj\Debug\databasedemo.vbproj.AssemblyReference.cache
+E:\ALCANTARA CP FP\ALCANTARA CP FP\databasedemo\obj\Debug\Interop.ADODB.dll
+E:\ALCANTARA CP FP\ALCANTARA CP FP\databasedemo\obj\Debug\databasedemo.vbproj.ResolveComReference.cache
+E:\ALCANTARA CP FP\ALCANTARA CP FP\databasedemo\obj\Debug\databasedemo.exe
+E:\ALCANTARA CP FP\ALCANTARA CP FP\databasedemo\obj\Debug\databasedemo.xml
+E:\ALCANTARA CP FP\ALCANTARA CP FP\databasedemo\obj\Debug\databasedemo.pdb
